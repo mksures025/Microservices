@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+D:\TECHNO-ELEVATE\TRAINING\Microservices\.metadata\.plugins\org.eclipse.jdt.core
+1781867097.index
+3863764994.index
+1865797976.index
+2688174153.index
+2273118355.index
